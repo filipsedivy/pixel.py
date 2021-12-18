@@ -1,4 +1,5 @@
-# Pixel.py
+Pixel.py |PyPI|
+=========================================================
 
 Image Data Preprocessing Toolkit
 
