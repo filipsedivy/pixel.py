@@ -15,5 +15,6 @@ setup(
     author_email='mail@filipsedivy.cz',
     description='Image Data Preprocessing Toolkit',
     long_description=readme,
+    long_description_content_type='text/markdown',
     requires=['pillow', 'filetype']
 )
