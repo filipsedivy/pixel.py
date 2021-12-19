@@ -1,6 +1,9 @@
-Pixel.py |PyPI|
+Pixel.py
 =========================================================
+
+|PyVersion| |PyPI|
 
 Image Data Preprocessing Toolkit
 
-.. |PyPI| image:: https://img.shields.io/pypi/v/pixel.py.svg?maxAge=2592000?style=flat-square
+.. |PyPI| image:: https://img.shields.io/pypi/v/pixel.py.svg?style=flat-square
+.. |PyVersion| image:: https://img.shields.io/pypi/pyversions/pixel.py.svg?style=flat-square
