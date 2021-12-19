@@ -7,7 +7,7 @@ with open('README.rst') as readme_file:
 
 setup(
     name='pixel.py',
-    version='1.0',
+    version='1.0.1',
     packages=['pixel'],
     url='https://github.com/filipsedivy/pixel.py',
     license='Apache-2.0 License',
