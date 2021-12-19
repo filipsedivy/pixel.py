@@ -15,5 +15,6 @@ setup(
     author_email='mail@filipsedivy.cz',
     description='Image Data Preprocessing Toolkit',
     long_description=readme,
-    requires=['pillow', 'filetype']
+    requires=['pillow', 'filetype'],
+    python_requires='>=3',
 )
