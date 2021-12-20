@@ -7,7 +7,7 @@ with open('README.rst') as readme_file:
 
 setup(
     name='pixel.py',
-    version='1.0.1',
+    version='1.0.2',
     packages=['pixel'],
     url='https://github.com/filipsedivy/pixel.py',
     download_url='https://github.com/filipsedivy/pixel.py/tarball/master',
