@@ -1,7 +1,7 @@
 Pixel.py
 =========================================================
 
-|PyVersion| |PyPi| |Docs|
+|PyVersion|_ |PyPi|_ |Docs|_
 
 Image Data Preprocessing Toolkit
 
